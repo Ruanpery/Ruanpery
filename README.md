@@ -31,7 +31,7 @@
   <samp>
     <a href="https://github.com/Ruanpery/ruan">「 Github 」</a>
     <br>
-    「 Eu sou um estudande de programaçao em python 
+     Eu sou um estudande de programaçao em python 
     <br>
     <br>
   </samp>
